@@ -1,1 +1,2 @@
 # Simulation-de-la-loi-tronque
+Projet réalisé dans le cadre du cours MU4MA074 : Probabilités numériques et statistiques computationnelles à Sorbonne Université. L’objectif est de simuler une loi gaussienne ainsi qu’une loi de Laplace tronquée à l’aide d’estimateurs de type Monte Carlo. Les lois classiques étant déjà disponibles dans des bibliothèques comme scipy, nous nous concentrons sur leur simulation numérique.
